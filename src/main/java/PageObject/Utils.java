@@ -24,4 +24,12 @@ public class Utils implements BasePage{
     {
         Assert.assertTrue(driver.findElement(by).isDisplayed());
     }
+
+    public String getTextFromALocator(By by)
+    {
+      String text = driver.findElement(by).getText();
+
+      return text;
+
+    }
 }

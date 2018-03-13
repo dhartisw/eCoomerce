@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0edbf14-39ed-40e8-b01e-97aa669db720" name="Default" comment="" />
+    <list default="true" id="e0edbf14-39ed-40e8-b01e-97aa669db720" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PageObject/AddedToTrolley.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PageObject/LgHdTv.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PageObject/SamsungUETV.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PageObject/ShopAllGroceries.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PageObject/Tesco.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Resources/Dharti/AddSomeItemInBasket.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Resources/Dharti/Argos.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/PageObject/HomePage.class" afterPath="$PROJECT_DIR$/target/classes/PageObject/HomePage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/PageObject/Television.class" afterPath="$PROJECT_DIR$/target/classes/PageObject/Television.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/PageObject/Utils.class" afterPath="$PROJECT_DIR$/target/classes/PageObject/Utils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Dharti/MyStepdefs.class" afterPath="$PROJECT_DIR$/target/test-classes/Dharti/MyStepdefs.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Dharti/RunTest.class" afterPath="$PROJECT_DIR$/target/test-classes/Dharti/RunTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/PageObject/HomePage.java" afterPath="$PROJECT_DIR$/src/main/java/PageObject/HomePage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/PageObject/Television.java" afterPath="$PROJECT_DIR$/src/main/java/PageObject/Television.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/PageObject/Utils.java" afterPath="$PROJECT_DIR$/src/main/java/PageObject/Utils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/Resources/Dharti/AddToBasket.feature" afterPath="$PROJECT_DIR$/src/test/Resources/Dharti/AddToBasket.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Dharti/MyStepdefs.java" afterPath="$PROJECT_DIR$/src/test/java/Dharti/MyStepdefs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Dharti/RunTest.java" afterPath="$PROJECT_DIR$/src/test/java/Dharti/RunTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/cucumber-html-report/report.js" afterPath="$PROJECT_DIR$/target/cucumber-html-report/report.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Dharti/AddToBasket.feature" afterPath="$PROJECT_DIR$/target/test-classes/Dharti/AddToBasket.feature" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,45 +33,48 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/swarabddtestcase$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1520788393035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Dharti.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AddToBasket.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/Resources/Dharti/AddToBasket.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyStepdefs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Dharti/MyStepdefs.java">
+      <file leaf-file-name="Argos.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Resources/Dharti/Argos.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="418">
+              <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RunTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Dharti/RunTest.java">
+      <file leaf-file-name="AddSomeItemInBasket.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Resources/Dharti/AddSomeItemInBasket.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="66">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyStepdefs.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Dharti/MyStepdefs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="590">
+              <caret line="148" column="35" lean-forward="false" selection-start-line="148" selection-start-column="35" selection-end-line="148" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,18 +85,18 @@
       <file leaf-file-name="Television.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/Television.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="65" lean-forward="false" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+            <state relative-caret-position="220">
+              <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TelevisionAndAccessories.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/TelevisionAndAccessories.java">
+      <file leaf-file-name="SamsungUETV.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/SamsungUETV.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+              <caret line="6" column="62" lean-forward="false" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -80,10 +105,11 @@
       <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="460">
+              <caret line="29" column="27" lean-forward="false" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
                 <element signature="e#337#338#0" expanded="true" />
                 <element signature="e#505#506#0" expanded="true" />
                 <element signature="e#576#577#0" expanded="true" />
@@ -92,11 +118,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/HomePage.java">
+      <file leaf-file-name="RunTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Dharti/RunTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,21 +130,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Technology.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/Technology.java">
+      <file leaf-file-name="LgHdTv.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/LgHdTv.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="87" lean-forward="false" selection-start-line="6" selection-start-column="87" selection-end-line="6" selection-end-column="87" />
+            <state relative-caret-position="88">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BasePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/BasePage.java">
+      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="132">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,13 +178,20 @@
         <option value="$PROJECT_DIR$/src/main/java/PageObject/BasePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/PageObject/TelevisionAndAccessories.java" />
         <option value="$PROJECT_DIR$/src/test/java/MyStepdefs.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Dharti/RunTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PageObject/HomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/PageObject/Technology.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PageObject/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PageObject/AddedToTrolley.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Dharti/RunTest.java" />
         <option value="$PROJECT_DIR$/src/test/Resources/Dharti/AddToBasket.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/Dharti/MyStepdefs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PageObject/Tesco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PageObject/ShopAllGroceries.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PageObject/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/Resources/Dharti/AddSomeItemInBasket.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/PageObject/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PageObject/LgHdTv.java" />
         <option value="$PROJECT_DIR$/src/main/java/PageObject/Television.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PageObject/SamsungUETV.java" />
+        <option value="$PROJECT_DIR$/src/test/Resources/Dharti/Argos.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/Dharti/MyStepdefs.java" />
       </list>
     </option>
   </component>
@@ -418,39 +451,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunTest - 2018.03.10 at 13h 30m 20s.xml">
+    <history-entry file="RunTest - 2018.03.12 at 21h 18m 34s.xml">
       <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunTest - 2018.03.10 at 13h 35m 29s.xml">
+    <history-entry file="RunTest - 2018.03.12 at 21h 21m 49s.xml">
       <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunTest - 2018.03.10 at 13h 39m 35s.xml">
+    <history-entry file="RunTest - 2018.03.12 at 21h 30m 04s.xml">
       <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunTest - 2018.03.10 at 13h 52m 13s.xml">
+    <history-entry file="RunTest - 2018.03.13 at 10h 24m 50s.xml">
       <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunTest - 2018.03.10 at 14h 00m 17s.xml">
+    <history-entry file="RunTest - 2018.03.13 at 10h 37m 55s.xml">
       <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunTest - 2018.03.10 at 16h 17m 45s.xml">
+    <history-entry file="RunTest - 2018.03.13 at 10h 43m 54s.xml">
       <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunTest - 2018.03.10 at 16h 22m 32s.xml">
+    <history-entry file="RunTest - 2018.03.13 at 11h 06m 18s.xml">
       <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunTest - 2018.03.10 at 16h 31m 29s.xml">
+    <history-entry file="RunTest - 2018.03.13 at 17h 08m 30s.xml">
       <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunTest - 2018.03.11 at 15h 12m 05s.xml">
+    <history-entry file="RunTest - 2018.03.13 at 20h 59m 52s.xml">
       <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunTest - 2018.03.11 at 16h 08m 01s.xml">
+    <history-entry file="RunTest - 2018.03.13 at 21h 03m 32s.xml">
       <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="884" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -461,11 +495,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.361875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.361875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -484,7 +519,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -538,6 +575,7 @@
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
             <element signature="e#337#338#0" expanded="true" />
             <element signature="e#505#506#0" expanded="true" />
             <element signature="e#576#577#0" expanded="true" />
@@ -568,7 +606,7 @@
         <state relative-caret-position="110">
           <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -611,8 +649,16 @@
         <state relative-caret-position="110">
           <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/AddedToTrolley.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -624,16 +670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/Technology.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -642,12 +678,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/Utils.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/Tesco.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="110">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/ShopAllGroceries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="46" lean-forward="false" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/Dharti/AddSomeItemInBasket.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="29" column="27" lean-forward="false" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
             <element signature="e#337#338#0" expanded="true" />
             <element signature="e#505#506#0" expanded="true" />
             <element signature="e#576#577#0" expanded="true" />
@@ -655,36 +726,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Resources/Dharti/AddToBasket.feature">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/LgHdTv.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="88">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Dharti/MyStepdefs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/Television.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="65" lean-forward="false" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+        <state relative-caret-position="220">
+          <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PageObject/SamsungUETV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="62" lean-forward="false" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/Dharti/AddToBasket.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Dharti/RunTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="286">
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/Dharti/Argos.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Dharti/MyStepdefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="148" column="35" lean-forward="false" selection-start-line="148" selection-start-column="35" selection-end-line="148" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
